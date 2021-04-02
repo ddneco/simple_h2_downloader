@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4040102812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfe41f8da9dc121f7e9d2a6b5edb4abc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/SimpleH2downloader/Example/Editor/AssetBundleResources/5_1.png
+Dependencies: []
